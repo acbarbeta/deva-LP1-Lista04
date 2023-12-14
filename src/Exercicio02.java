@@ -38,16 +38,11 @@ public class Exercicio02 {
             System.out.printf("Aluno %d - Média %.2f%n", (i+1), mediaDoAluno);
 
             notaTotalDaTurma += mediaDoAluno;
-
         }
 
         double mediaDaTurma = notaTotalDaTurma / numeroDeAlunos;
 
         System.out.println();
         System.out.printf("Média da turma: %.2f", mediaDaTurma);
-
-
-
-
     }
 }
