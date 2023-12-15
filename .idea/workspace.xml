@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="313ac15b-eb84-4af2-a32f-4b6b1bd982fd" name="Changes" comment="Exercício02">
+    <list default="true" id="313ac15b-eb84-4af2-a32f-4b6b1bd982fd" name="Changes" comment="Melhora legibilidade do exercício02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,23 +32,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aclar/OneDrive/Área de Trabalho/Ada Tech - Deva/Módulo 1 - Lógica de Programação/Lista04",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/aclar/OneDrive/Área de Trabalho/Ada Tech - Deva/Módulo 1 - Lógica de Programação/Lista04/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aclar/OneDrive/Área de Trabalho/Ada Tech - Deva/Módulo 1 - Lógica de Programação/Lista04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aclar/OneDrive/Área de Trabalho/Ada Tech - Deva/Módulo 1 - Lógica de Programação/Lista04/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exercicio02">
+}</component>
+  <component name="RunManager" selected="Application.Exercicio03">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio01" />
       <module name="Lista04" />
@@ -63,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio03" />
+      <module name="Lista04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
       </list>
@@ -81,7 +89,8 @@
       <workItem from="1702424690306" duration="1950000" />
       <workItem from="1702507973750" duration="3067000" />
       <workItem from="1702528036019" duration="26000" />
-      <workItem from="1702584417478" duration="1032000" />
+      <workItem from="1702584417478" duration="1070000" />
+      <workItem from="1702604347820" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial e exercício 1">
       <option name="closed" value="true" />
@@ -107,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702585397024</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Melhora legibilidade do exercício02">
+      <option name="closed" value="true" />
+      <created>1702585467663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702585467663</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial e exercício 1" />
     <MESSAGE value="Exercício02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício02" />
+    <MESSAGE value="Melhora legibilidade do exercício02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Melhora legibilidade do exercício02" />
   </component>
 </project>
