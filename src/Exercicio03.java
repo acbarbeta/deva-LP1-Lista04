@@ -28,7 +28,6 @@ public class Exercicio03 {
             arrayDaSoma[i] = somaAcumulada;
         }
 
-
         System.out.println(Arrays.toString(arrayDaSoma));
     }
 }
