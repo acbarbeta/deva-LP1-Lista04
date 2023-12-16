@@ -46,8 +46,5 @@ public class Exercicio04 {
         double porcentagemDeVotosDoVencedor = (double) votosValidos * 100 / 10;
 
         System.out.printf("O candidato %s venceu com %.2f %% dos votos %n", candidatoVencedor, porcentagemDeVotosDoVencedor);
-
-
     }
-
 }
