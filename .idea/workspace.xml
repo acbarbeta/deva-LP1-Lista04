@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="313ac15b-eb84-4af2-a32f-4b6b1bd982fd" name="Changes" comment="Melhora legibilidade do exercício02">
+    <list default="true" id="313ac15b-eb84-4af2-a32f-4b6b1bd982fd" name="Changes" comment="Exercício 04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio03">
+  <component name="RunManager" selected="Application.Exercicio04">
     <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio01" />
       <module name="Lista04" />
@@ -70,8 +70,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio04" />
+      <module name="Lista04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio04" />
         <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
@@ -90,7 +98,8 @@
       <workItem from="1702507973750" duration="3067000" />
       <workItem from="1702528036019" duration="26000" />
       <workItem from="1702584417478" duration="1070000" />
-      <workItem from="1702604347820" duration="1496000" />
+      <workItem from="1702604347820" duration="2385000" />
+      <workItem from="1702677833302" duration="5184000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial e exercício 1">
       <option name="closed" value="true" />
@@ -124,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702585467663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercício 03">
+      <option name="closed" value="true" />
+      <created>1702606225598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702606225598</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refatora Exercício 03">
+      <option name="closed" value="true" />
+      <created>1702606317986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702606317986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +159,9 @@
     <MESSAGE value="Commit inicial e exercício 1" />
     <MESSAGE value="Exercício02" />
     <MESSAGE value="Melhora legibilidade do exercício02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Melhora legibilidade do exercício02" />
+    <MESSAGE value="Exercício 03" />
+    <MESSAGE value="Refatora Exercício 03" />
+    <MESSAGE value="Exercício 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício 04" />
   </component>
 </project>
